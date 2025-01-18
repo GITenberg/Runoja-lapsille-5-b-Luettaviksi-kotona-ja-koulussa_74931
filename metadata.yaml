@@ -1,0 +1,31 @@
+_repo: Runoja-lapsille-5-b-Luettaviksi-kotona-ja-koulussa_74931
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Pietikäinen, Abraham
+    birthdate: 1848
+    deathdate: 1910
+    gutenberg_agent_id: '57721'
+    url: http://www.gutenberg.org/2009/agents/57721
+    wikipedia: https://fi.wikipedia.org/wiki/Abraham_Pietik%C3%A4inen
+description: ''
+gutenberg_issued: '2024-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74931'
+language: fi
+pgterms:marc904: https://www.doria.fi/handle/10024/144026/browse?type=author&value=Pietik%C3%A4inen%2C+Abraham
+pgterms:marc905: 20241208040845pietikinen
+pgterms:marc906: '1884'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aSortavala :$bToimittajan kustantama, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, Finnish'
+- !lcc 'PZ'
+- GITenberg
+title: 'Runoja lapsille 5 : $b Luettaviksi kotona ja koulussa'
+url: http://www.gutenberg.org/ebooks/74931

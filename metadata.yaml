@@ -1,5 +1,8 @@
 _repo: Runoja-lapsille-5-b-Luettaviksi-kotona-ja-koulussa_74931
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Pietikäinen, Abraham
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57721
     wikipedia: https://fi.wikipedia.org/wiki/Abraham_Pietik%C3%A4inen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74931#Runoja-lapsille-5-b-Luettaviksi-kotona-ja-koulussa
 gutenberg_issued: '2024-12-18'
 gutenberg_type: Text
 identifiers:
